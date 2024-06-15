@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Joint Blog</title>
+        <link>https://gggrain.github.io/Unreal-Joint-Documentation/blog</link>
+        <description>Joint Blog</description>
+        <lastBuildDate>Wed, 12 Jun 2024 20:34:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Beginning of JOINT]]></title>
+            <link>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Beginning of JOINT</link>
+            <guid>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Beginning of JOINT</guid>
+            <pubDate>Wed, 12 Jun 2024 20:34:06 GMT</pubDate>
+            <description><![CDATA[JOINTLogo.png]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="JOINT_Logo.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/assets/images/JOINT_Logo-3511f8f8cd6cd939471c9f64795115a7.png" width="2880" height="1620" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="joint-has-been-finally-released-on-20240610--">Joint Has Been Finally Released on 2024.06.10  🥳<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Beginning%20of%20JOINT#joint-has-been-finally-released-on-20240610--" class="hash-link" aria-label="Direct link to Joint Has Been Finally Released on 2024.06.10  🥳" title="Direct link to Joint Has Been Finally Released on 2024.06.10  🥳">​</a></h2>
+<p><strong>Joint</strong> is a plugin that provides the most flexible dialogue-based interaction scripting framework on the scene.
+<strong>Joint</strong> is our official sequel plugin to our prior product, <strong>Simple Dialogue System.</strong> if you are looking for the documentation for SDS, please visit <a href="https://gggrain.github.io/" target="_blank" rel="noopener noreferrer">SDS Documentation</a>.</p>
+<p>Well, I'm sure that people like you who are willing to visit our webpage already knows what our product is, so I will not repeat to introduce it again here <!-- -->:D<!-- --> (If you don't know, then please visit our marketplace page.)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="official-website-for-joint">Official Website for Joint<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Beginning%20of%20JOINT#official-website-for-joint" class="hash-link" aria-label="Direct link to Official Website for Joint" title="Direct link to Official Website for Joint">​</a></h2>
+<p>You can see the whole things of Joint in this website. Documentation for Joint and Joint Native, and even for Volt, contact links, news of them, and release notes for them. All the big stuffs are listed on the navigation bar, so please visit them to find what you need.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>Joint</category>
+            <category>Joint-Native</category>
+            <category>Volt</category>
+            <category>Simple Dialogue System</category>
+        </item>
+    </channel>
+</rss>
