@@ -12,8 +12,8 @@
         <id>https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning of JOINT</id>
         <link href="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning of JOINT"/>
         <updated>2024-06-12T20:34:06.148Z</updated>
-        <summary type="html"><![CDATA[JOINTLogo.png]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="JOINT_Logo.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/assets/images/JOINT_Logo-3511f8f8cd6cd939471c9f64795115a7.png" width="2880" height="1620" class="img_ev3q"></p>
+        <summary type="html"><![CDATA[Logo.png]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Logo.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/assets/images/Logo-14aff1c73f0e604b3a26fe85de1f30d6.png" width="1080" height="1080" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="joint-has-been-finally-released-on-20240610--">Joint Has Been Finally Released on 2024.06.10  🥳<a href="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning%20of%20JOINT#joint-has-been-finally-released-on-20240610--" class="hash-link" aria-label="Joint Has Been Finally Released on 2024.06.10  🥳에 대한 직접 링크" title="Joint Has Been Finally Released on 2024.06.10  🥳에 대한 직접 링크">​</a></h2>
 <p><strong>Joint</strong> is a plugin that provides the most flexible dialogue-based interaction scripting framework on the scene.
 <strong>Joint</strong> is our official sequel plugin to our prior product, <strong>Simple Dialogue System.</strong> if you are looking for the documentation for SDS, please visit <a href="https://gggrain.github.io/" target="_blank" rel="noopener noreferrer">SDS Documentation</a>.</p>
