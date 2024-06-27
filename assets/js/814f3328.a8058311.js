@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Beginning of JOINT","permalink":"/Unreal-Joint-Documentation/blog/Beginning of JOINT","unlisted":false}]}')}}]);
