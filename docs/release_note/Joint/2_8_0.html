@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.0.1">
 <title data-rh="true">2.8.0 | Joint</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://gggrain.github.io/Unreal-Joint-Documentation/img/Logo.png"><meta data-rh="true" name="twitter:image" content="https://gggrain.github.io/Unreal-Joint-Documentation/img/Logo.png"><meta data-rh="true" property="og:url" content="https://gggrain.github.io/Unreal-Joint-Documentation/docs/release_note/Joint/2_8_0"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" property="og:locale:alternate" content="ko_kr"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="2.8.0 | Joint"><meta data-rh="true" name="description" content="Very huge update for the system."><meta data-rh="true" property="og:description" content="Very huge update for the system."><link data-rh="true" rel="icon" href="/Unreal-Joint-Documentation/Logo_Title.png"><link data-rh="true" rel="canonical" href="https://gggrain.github.io/Unreal-Joint-Documentation/docs/release_note/Joint/2_8_0"><link data-rh="true" rel="alternate" href="https://gggrain.github.io/Unreal-Joint-Documentation/docs/release_note/Joint/2_8_0" hreflang="en"><link data-rh="true" rel="alternate" href="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/docs/release_note/Joint/2_8_0" hreflang="ko-kr"><link data-rh="true" rel="alternate" href="https://gggrain.github.io/Unreal-Joint-Documentation/docs/release_note/Joint/2_8_0" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/Unreal-Joint-Documentation/blog/rss.xml" title="Joint RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/Unreal-Joint-Documentation/blog/atom.xml" title="Joint Atom Feed"><link rel="stylesheet" href="/Unreal-Joint-Documentation/assets/css/styles.31111cf1.css">
-<script src="/Unreal-Joint-Documentation/assets/js/runtime~main.db57435b.js" defer="defer"></script>
+<script src="/Unreal-Joint-Documentation/assets/js/runtime~main.51e37c81.js" defer="defer"></script>
 <script src="/Unreal-Joint-Documentation/assets/js/main.975cbd08.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -24,18 +24,20 @@
 <h5 class="anchor anchorWithStickyNavbar_LWe7" id="node-pointer-widget-reworked">Node Pointer Widget Reworked<a href="#node-pointer-widget-reworked" class="hash-link" aria-label="Direct link to Node Pointer Widget Reworked" title="Direct link to Node Pointer Widget Reworked">​</a></h5>
 <p><img loading="lazy" alt="img_6.png" src="/Unreal-Joint-Documentation/assets/images/img_6-9e0e4ab168896d20792acf72770e7b18.png" width="1289" height="430" class="img_ev3q"></p>
 <p>Now Node Pointer Widget has much better visual and editing supports. if you hover your mouse over them, you will see those buttons are getting popped up.</p>
-<p>Explanations for each buttons are as following:
-Node Picking : Start node picking.
-Go to : Go to the current node that the structure contains.
-Copy : Copy the content of the structure to the clipboard.
-Paste : Paste the copied reference to the structure from the clipboard.
-Unlink : reset the structure to the default value.</p>
+<p>Explanations for each button are as following:</p>
+<ul>
+<li>Node Picking : Start node picking.</li>
+<li>Go to : Go to the current node that the structure contains.</li>
+<li>Copy : Copy the content of the structure to the clipboard.</li>
+<li>Paste : Paste the copied reference to the structure from the clipboard.</li>
+<li>Unlink : reset the structure to the default value.</li>
+</ul>
 <p><img loading="lazy" alt="img_7.png" src="/Unreal-Joint-Documentation/assets/images/img_7-82a32b33b590eb62933d6bb64d6b19a5.png" width="693" height="441" class="img_ev3q"></p>
 <p>Not only the properties, but also the slate level node picker widget has been reworked as well. It will boost your development&#x27;s speed!</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="build-preset-system">Build Preset System<a href="#build-preset-system" class="hash-link" aria-label="Direct link to Build Preset System" title="Direct link to Build Preset System">​</a></h4>
 <p><code>Joint Build Preset</code> is an asset that defines whether your nodes will be included or excluded according to the build condition.</p>
 <p>If a node that contains this asset is not allowed for type, then that node will be excluded on the package stages.</p>
-<p>This will help you to reduce and optimize the dialogue manager asset according to the session type, and help you to prevent some memory corrupting related security concerns.</p>
+<p>This will help you to reduce and optimize the dialogue manager asset according to the session type, and help you to prevent some memory corruption related security concerns.</p>
 <div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</div><div class="admonitionContent_BuS1"><p>Of course, we&#x27;ve supported a way to control the playback on each session, for example with some fragments like OnServer, OnClient, but they had their limitation since even if they are not be played, but still stays in the memory and object.</p><p>So basically, this new method is superior version of those fragments.</p></div></div>
 <p><img loading="lazy" alt="img_11.png" src="/Unreal-Joint-Documentation/assets/images/img_11-7236f841d57b85793449331e979a0e84.png" width="1355" height="797" class="img_ev3q"></p>
 <p>You can create a new preset in the content browser. right click and go Joint -&gt; Joint Build Preset.</p>
@@ -56,10 +58,10 @@ Unlink : reset the structure to the default value.</p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="individual-simple-display-property-visibility-system">Individual Simple Display Property Visibility System<a href="#individual-simple-display-property-visibility-system" class="hash-link" aria-label="Direct link to Individual Simple Display Property Visibility System" title="Direct link to Individual Simple Display Property Visibility System">​</a></h4>
 <p>Now the simple display property tab provide a visibility option for each property! For example, let&#x27;s say we have a node like this.</p>
 <p><img loading="lazy" alt="img_17.png" src="/Unreal-Joint-Documentation/assets/images/img_17-f367b078a21ceacf13babf5bd620ff1b.png" width="1413" height="802" class="img_ev3q"></p>
-<p>but well.. It looks crapy. It almost looks like a dumbbell. It&#x27;s too big.</p>
+<p>but well.. It looks like a crap. It almost looks like a dumbbell. It&#x27;s too big.</p>
 <p><img loading="lazy" alt="fb11fecd4866226c6535e623725e9f67.jpg" src="/Unreal-Joint-Documentation/assets/images/fb11fecd4866226c6535e623725e9f67-cd1e15b9181e74bf0498430aacf49f41.jpg" width="500" height="500" class="img_ev3q"></p>
 <p>You might don&#x27;t want to see some of the properties for this node because they are not necessary for now, but at the same time, you might don&#x27;t want to exclude them from the simple display list for the future usage.</p>
-<p>So we added individual visibility option for the simple property display! You can press &#x27;x&#x27; to start off marking each properties&#x27; visibility on the graph node.</p>
+<p>So we added individual visibility option for the simple property display! You can press &#x27;x&#x27; to start off marking each property&#x27;s visibility on the graph node.</p>
 <p><img loading="lazy" alt="img_18.png" src="/Unreal-Joint-Documentation/assets/images/img_18-450c6b6ac02b60b07a18b77b329367d6.png" width="1438" height="914" class="img_ev3q"></p>
 <p>Then those visibility button will show off. If you disable them and see the result...</p>
 <p><img loading="lazy" alt="img_19.png" src="/Unreal-Joint-Documentation/assets/images/img_19-fc7d26f8e7cfe8566407d19a190d0ce1.png" width="1522" height="941" class="img_ev3q"></p>
