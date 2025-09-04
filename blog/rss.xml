@@ -17,52 +17,8 @@
             <content:encoded><![CDATA[<p><img loading="lazy" alt="Frame 6.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/assets/images/Frame%206-411f8966335aa69ed8d482c73031ec82.png" width="3442" height="974" class="img_ev3q"></p>
 <p>Today, we're sharing the biggest change on Joint! <strong>Now Joint's content is provided on GitHub as an open source project!</strong></p>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="official-github-repository--official-discord"><a href="https://github.com/GGgRain/Unreal-Joint" target="_blank" rel="noopener noreferrer">Official GitHub Repository</a> | <a href="https://discord.com/invite/DzNFax2aBS" target="_blank" rel="noopener noreferrer">Official Discord</a><a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#official-github-repository--official-discord" class="hash-link" aria-label="Direct link to official-github-repository--official-discord" title="Direct link to official-github-repository--official-discord">​</a></h4>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="use-joint-in-your-project-for-free--until-your-project-thrives">Use Joint In Your Project For Free – Until Your Project Thrives!<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#use-joint-in-your-project-for-free--until-your-project-thrives" class="hash-link" aria-label="Direct link to Use Joint In Your Project For Free – Until Your Project Thrives!" title="Direct link to Use Joint In Your Project For Free – Until Your Project Thrives!">​</a></h4>
-<p>You are free to install and use Joint without paying any fees – use it as you wish in your project, in any direction you choose!</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="introducing-the-new-joint-royalty-licensing">Introducing the New Joint Royalty Licensing<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#introducing-the-new-joint-royalty-licensing" class="hash-link" aria-label="Direct link to Introducing the New Joint Royalty Licensing" title="Direct link to Introducing the New Joint Royalty Licensing">​</a></h4>
-<p>We aim to empower indie and small-scale developers to use Joint in a practical and proactive way, without financial pressure. That’s why we’ve introduced a new royalty model where you only pay a reasonable royalty after your project begins to generate meaningful revenue.</p>
-<p>As of April 5, 2025, if your project using Joint earns more than $15,000 USD in annual gross revenue, a 1% royalty fee will apply only to the portion exceeding that amount.</p>
-<p>If your project doesn't reach that threshold, <strong>you are free to use Joint without any royalty fees!</strong></p>
-<p>Royalty thresholds and percentages may change with future license revisions. However, to ensure both your rights and project stability, we are committed to enforcing clear limitations on such changes, including:</p>
-<ul>
-<li>
-<p>Changes to the royalty percentage or royalty threshold must be announced at least two (2) months in advance. The Licensor must notify users via the official Discord and GitHub repository.</p>
-</li>
-<li>
-<p>During this period, the Licensor shall engage in discussions with users to address concerns and adjustments regarding the changes. However, the final decision remains at the discretion of the Licensor.</p>
-</li>
-<li>
-<p>When increasing the royalty percentage, the Licensor must raise it by no more than 0.5% every six months, based on a mid-year division around June 30. Under no circumstances shall the royalty percentage exceed a maximum cap of 3%.</p>
-</li>
-<li>
-<p>There are no specific limitations on changes to the royalty threshold, but the threshold shall not be set below $10,000 USD under any circumstances.</p>
-</li>
-</ul>
-<p>For educational and non-commercial research purposes, royalties may be waived only with prior written approval from the Licensor.</p>
-<p>Additionally, individuals or organizations that officially purchased Joint via Fab or Unreal Marketplace before April 13, 2025, may be eligible for exemptions or discounts under this royalty program depending on the purchase date and license terms.</p>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="contribute-and-support-our-projects--earn-rewards">Contribute and Support Our Projects – Earn Rewards!<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#contribute-and-support-our-projects--earn-rewards" class="hash-link" aria-label="Direct link to Contribute and Support Our Projects – Earn Rewards!" title="Direct link to Contribute and Support Our Projects – Earn Rewards!">​</a></h4>
-<p>We plan to offer substantial royalty discounts to users who provide meaningful support – whether technical, financial, business, or promotional.</p>
-<p>Because such contributions are difficult to quantify strictly, we cannot present a fixed benefits table. However, we can say with confidence that contributions, especially in the form of promotion or business partnerships, are extremely valuable to our team. In return, we plan to provide aggressive rewards for those who support us.</p>
-<p>Depending on the nature and scale of your contributions, you may receive:</p>
-<ul>
-<li>
-<p>10–50% or more royalty discounts (From the final royalty. For example, if you have to pay 100 USD as royalty, 10% discounts will lower it to be 90 USD)</p>
-</li>
-<li>
-<p>Priority technical support</p>
-</li>
-<li>
-<p>Public promotion of your project via our official GitHub, website, and Discord</p>
-</li>
-</ul>
-<h4 class="anchor anchorWithStickyNavbar_LWe7" id="build-and-monetize-your-own-derivative-software-with-joint">Build and Monetize Your Own Derivative Software with Joint!<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#build-and-monetize-your-own-derivative-software-with-joint" class="hash-link" aria-label="Direct link to Build and Monetize Your Own Derivative Software with Joint!" title="Direct link to Build and Monetize Your Own Derivative Software with Joint!">​</a></h4>
-<p>Got a brilliant idea for a plugin or tool based on Joint – like Joint Native or our secret upcoming project Joint Yggdrasil?</p>
-<p>You are welcome to build and monetize your own Derivative Software based on Joint. You will retain full ownership and revenue rights for your derivative product.</p>
-<p>You can also receive active technical support via our official GitHub and Discord channels to bring your ideas to life.</p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</div><div class="admonitionContent_BuS1"><p>Derivative Software is still subject to the terms of the Joint Royalty Licensing Program.</p></div></div>
 <h4 class="anchor anchorWithStickyNavbar_LWe7" id="check-out-the-detailed-licensing-policy">Check Out The Detailed Licensing Policy!<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#check-out-the-detailed-licensing-policy" class="hash-link" aria-label="Direct link to Check Out The Detailed Licensing Policy!" title="Direct link to Check Out The Detailed Licensing Policy!">​</a></h4>
-<p>Every detail we described on the page is well explained in here: <a href="https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md" target="_blank" rel="noopener noreferrer">https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md</a></p>
-<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>info</div><div class="admonitionContent_BuS1"><p>The contents described in this page can be changed or different due to the revisions or mistakes, therefore you must read and agree to the license policy on the official GitHub repository before you use the software.</p></div></div>]]></content:encoded>
+<p>Check out the full licensing and the new pricing model for the product in here: <a href="https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md" target="_blank" rel="noopener noreferrer">https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md</a></p>]]></content:encoded>
             <category>Open Source</category>
         </item>
         <item>
