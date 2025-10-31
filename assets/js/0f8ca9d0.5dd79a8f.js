@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1320],{82772:e=>{e.exports=JSON.parse('{"authors":[{"name":"DevGrain","title":"Developer of Joint, Joint Native, Joint Yggdrasil, Volt","url":"https://github.com/GGgRain","key":"DevGrain","page":null,"count":3}]}')}}]);
