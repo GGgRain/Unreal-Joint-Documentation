@@ -9,25 +9,6 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko-kr</language>
         <item>
-            <title><![CDATA[Beginning of JOINT]]></title>
-            <link>https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning of JOINT</link>
-            <guid>https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning of JOINT</guid>
-            <pubDate>Fri, 31 Oct 2025 05:11:02 GMT</pubDate>
-            <description><![CDATA[Logo.png]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Logo.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/assets/images/Logo-14aff1c73f0e604b3a26fe85de1f30d6.png" width="1080" height="1080" class="img_ev3q"></p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="joint-has-been-finally-released-on-20240610--">Joint Has Been Finally Released on 2024.06.10  🥳<a href="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning%20of%20JOINT#joint-has-been-finally-released-on-20240610--" class="hash-link" aria-label="Joint Has Been Finally Released on 2024.06.10  🥳에 대한 직접 링크" title="Joint Has Been Finally Released on 2024.06.10  🥳에 대한 직접 링크" translate="no">​</a></h2>
-<p><strong>Joint</strong> is a plugin that provides the most flexible dialogue-based interaction scripting framework on the scene.
-<strong>Joint</strong> is our official sequel plugin to our prior product, <strong>Simple Dialogue System.</strong> if you are looking for the documentation for SDS, please visit <a href="https://gggrain.github.io/" target="_blank" rel="noopener noreferrer" class="">SDS Documentation</a>.</p>
-<p>Well, I'm sure that people like you who are willing to visit our webpage already knows what our product is, so I will not repeat to introduce it again here <!-- -->:D<!-- --> (If you don't know, then please visit our marketplace page.)</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="official-website-for-joint">Official Website for Joint<a href="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning%20of%20JOINT#official-website-for-joint" class="hash-link" aria-label="Official Website for Joint에 대한 직접 링크" title="Official Website for Joint에 대한 직접 링크" translate="no">​</a></h2>
-<p>You can see the whole things of Joint in this website. Documentation for Joint and Joint Native, and even for Volt, contact links, news of them, and release notes for them. All the big stuffs are listed on the navigation bar, so please visit them to find what you need.</p>]]></content:encoded>
-            <category>welcome</category>
-            <category>Joint</category>
-            <category>Joint-Native</category>
-            <category>Volt</category>
-            <category>Simple Dialogue System</category>
-        </item>
-        <item>
             <title><![CDATA[Joint Has Become An Open Source Project!]]></title>
             <link>https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Joint has become an open source project!</link>
             <guid>https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Joint has become an open source project!</guid>
@@ -78,6 +59,25 @@
 <p>Thanks for reading,
 - DevGrain</p>]]></content:encoded>
             <category>Open Source</category>
+        </item>
+        <item>
+            <title><![CDATA[Beginning of JOINT]]></title>
+            <link>https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning of JOINT</link>
+            <guid>https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning of JOINT</guid>
+            <pubDate>Fri, 31 Oct 2025 05:11:02 GMT</pubDate>
+            <description><![CDATA[Logo.png]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Logo.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/assets/images/Logo-14aff1c73f0e604b3a26fe85de1f30d6.png" width="1080" height="1080" class="img_ev3q"></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="joint-has-been-finally-released-on-20240610--">Joint Has Been Finally Released on 2024.06.10  🥳<a href="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning%20of%20JOINT#joint-has-been-finally-released-on-20240610--" class="hash-link" aria-label="Joint Has Been Finally Released on 2024.06.10  🥳에 대한 직접 링크" title="Joint Has Been Finally Released on 2024.06.10  🥳에 대한 직접 링크" translate="no">​</a></h2>
+<p><strong>Joint</strong> is a plugin that provides the most flexible dialogue-based interaction scripting framework on the scene.
+<strong>Joint</strong> is our official sequel plugin to our prior product, <strong>Simple Dialogue System.</strong> if you are looking for the documentation for SDS, please visit <a href="https://gggrain.github.io/" target="_blank" rel="noopener noreferrer" class="">SDS Documentation</a>.</p>
+<p>Well, I'm sure that people like you who are willing to visit our webpage already knows what our product is, so I will not repeat to introduce it again here <!-- -->:D<!-- --> (If you don't know, then please visit our marketplace page.)</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="official-website-for-joint">Official Website for Joint<a href="https://gggrain.github.io/Unreal-Joint-Documentation/ko-kr/blog/Beginning%20of%20JOINT#official-website-for-joint" class="hash-link" aria-label="Official Website for Joint에 대한 직접 링크" title="Official Website for Joint에 대한 직접 링크" translate="no">​</a></h2>
+<p>You can see the whole things of Joint in this website. Documentation for Joint and Joint Native, and even for Volt, contact links, news of them, and release notes for them. All the big stuffs are listed on the navigation bar, so please visit them to find what you need.</p>]]></content:encoded>
+            <category>welcome</category>
+            <category>Joint</category>
+            <category>Joint-Native</category>
+            <category>Volt</category>
+            <category>Simple Dialogue System</category>
         </item>
     </channel>
 </rss>
