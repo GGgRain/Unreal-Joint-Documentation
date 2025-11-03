@@ -9,6 +9,19 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[Joint Has Become An Open Source Project!]]></title>
+            <link>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint has become an open source project!</link>
+            <guid>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint has become an open source project!</guid>
+            <pubDate>Fri, 31 Oct 2025 05:11:02 GMT</pubDate>
+            <description><![CDATA[Frame 6.png]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Frame 6.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/assets/images/Frame%206-411f8966335aa69ed8d482c73031ec82.png" width="3442" height="974" class="img_ev3q"></p>
+<p>Today, we're sharing the biggest change on Joint! <strong>Now Joint's content is provided on GitHub as an open source project!</strong></p>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="official-github-repository--official-discord"><a href="https://github.com/GGgRain/Unreal-Joint" target="_blank" rel="noopener noreferrer" class="">Official GitHub Repository</a> | <a href="https://discord.com/invite/DzNFax2aBS" target="_blank" rel="noopener noreferrer" class="">Official Discord</a><a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#official-github-repository--official-discord" class="hash-link" aria-label="Direct link to official-github-repository--official-discord" title="Direct link to official-github-repository--official-discord" translate="no">​</a></h4>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="check-out-the-detailed-licensing-policy">Check Out The Detailed Licensing Policy!<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#check-out-the-detailed-licensing-policy" class="hash-link" aria-label="Direct link to Check Out The Detailed Licensing Policy!" title="Direct link to Check Out The Detailed Licensing Policy!" translate="no">​</a></h4>
+<p>Check out the full licensing and the new pricing model for the product in here: <a href="https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md" target="_blank" rel="noopener noreferrer" class="">https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md</a></p>]]></content:encoded>
+            <category>Open Source</category>
+        </item>
+        <item>
             <title><![CDATA[Beginning of JOINT]]></title>
             <link>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Beginning of JOINT</link>
             <guid>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Beginning of JOINT</guid>
@@ -26,19 +39,6 @@
             <category>Joint-Native</category>
             <category>Volt</category>
             <category>Simple Dialogue System</category>
-        </item>
-        <item>
-            <title><![CDATA[Joint Has Become An Open Source Project!]]></title>
-            <link>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint has become an open source project!</link>
-            <guid>https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint has become an open source project!</guid>
-            <pubDate>Fri, 31 Oct 2025 05:11:02 GMT</pubDate>
-            <description><![CDATA[Frame 6.png]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Frame 6.png" src="https://gggrain.github.io/Unreal-Joint-Documentation/assets/images/Frame%206-411f8966335aa69ed8d482c73031ec82.png" width="3442" height="974" class="img_ev3q"></p>
-<p>Today, we're sharing the biggest change on Joint! <strong>Now Joint's content is provided on GitHub as an open source project!</strong></p>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="official-github-repository--official-discord"><a href="https://github.com/GGgRain/Unreal-Joint" target="_blank" rel="noopener noreferrer" class="">Official GitHub Repository</a> | <a href="https://discord.com/invite/DzNFax2aBS" target="_blank" rel="noopener noreferrer" class="">Official Discord</a><a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#official-github-repository--official-discord" class="hash-link" aria-label="Direct link to official-github-repository--official-discord" title="Direct link to official-github-repository--official-discord" translate="no">​</a></h4>
-<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="check-out-the-detailed-licensing-policy">Check Out The Detailed Licensing Policy!<a href="https://gggrain.github.io/Unreal-Joint-Documentation/blog/Joint%20has%20become%20an%20open%20source%20project!#check-out-the-detailed-licensing-policy" class="hash-link" aria-label="Direct link to Check Out The Detailed Licensing Policy!" title="Direct link to Check Out The Detailed Licensing Policy!" translate="no">​</a></h4>
-<p>Check out the full licensing and the new pricing model for the product in here: <a href="https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md" target="_blank" rel="noopener noreferrer" class="">https://github.com/GGgRain/Unreal-Joint/blob/main/LICENSE.md</a></p>]]></content:encoded>
-            <category>Open Source</category>
         </item>
         <item>
             <title><![CDATA[Joint & Its ecosystem have received an Epic MegaGrant]]></title>
